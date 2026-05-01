@@ -14,12 +14,6 @@ HTML5, CSS3, and JavaScript. Clean design, smooth animations.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌐 LIVE DEMO
-
-👉 https://soumya3605-portfolio.netlify.app
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ✨ FEATURES
 
    ✓ Modern dark theme        ✓ Smooth scroll navigation
